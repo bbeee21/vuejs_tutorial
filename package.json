@@ -1,0 +1,27 @@
+{
+  "name": "part9_Vuejs",
+  "version": "1.0.0",
+  "description": "node.js + js + vue (환경설정 포함)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbeee21/vuejs_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbeee21/vuejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/bbeee21/vuejs_tutorial#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
